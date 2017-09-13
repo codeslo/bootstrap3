@@ -1,0 +1,11 @@
+Our customer is the owner of a new gourmet restaurant called Eating Fire. 
+
+The customer is willing to give us considerable creative latitude with the new website. All we have to do is:
+
+1. Make use of at least some of the images in the images folder
+2. The site should have sections talking about how good the food is, how good the ambiance is, and how good the wine is.
+3. The site should be responsive and look great on both a widescreen monitor and on mobile devices
+4. The customer has two fonts in mind, both from Google fonts. These fonts are linked to in the html and css templates provided
+5. The customer says she would like her restaurant site to look "inspired by a wine label."
+
+Bootstrap recommended. You've got two hours to deliver something awesome!
