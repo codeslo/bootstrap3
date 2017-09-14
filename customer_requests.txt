@@ -8,4 +8,4 @@ The customer is willing to give us considerable creative latitude with the new w
 4. The customer has two fonts in mind, both from Google fonts. These fonts are linked to in the html and css templates provided
 5. The customer says she would like her restaurant site to look "inspired by a wine label."
 
-Bootstrap recommended. You've got two hours to deliver something awesome!
+Bootstrap recommended. You've got two hours to deliver something awesome! No pressure.
